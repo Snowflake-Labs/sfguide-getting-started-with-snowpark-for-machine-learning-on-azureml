@@ -6,4 +6,4 @@ In this guide, we will perform data preperation and machine learning tasks to tr
 
 ## Step-By-Step Guide
 
-For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [QuickStart Guide](https://quickstarts.snowflake.com/guide/getting_started_with_snowpark_for_machine_learning_on_azureml/#0).
+For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [QuickStart Guide](https://quickstarts.snowflake.com/guide/example_matt_marzillo/index.html?index=..%2F..index#0).
